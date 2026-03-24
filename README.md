@@ -1,2 +1,2 @@
-# workshop-ospf-kalau
+# Workshop OSPF Kalau
 Lab feito no EVE-NG do Workshop de OSPF ministrado pelo Gustavo Kalau
