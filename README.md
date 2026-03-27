@@ -1,7 +1,7 @@
 # Workshop OSPF Kalau
 <br>
 
-Lab feito no EVE-NG do Workshop de OSPF ministrado pelo Gustavo Kalau  
+**Lab feito no EVE-NG do Workshop de OSPF ministrado pelo Gustavo Kalau**
 <br>
 
 **Passos realizados:**
