@@ -1,6 +1,5 @@
 # Workshop OSPF Kalau
-**Lab feito no EVE-NG do Workshop de OSPF ministrado pelo Gustavo Kalau**
-<br>
+**Lab feito no EVE-NG do Workshop de OSPF ministrado pelo Gustavo Kalau**<br>
 
 **Passos realizados:**
 1. Montagem da topologia
